@@ -1,7 +1,7 @@
   # Gojou-MD
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By The honoured one ⚡</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/YKVlucn.jpeg"/>       
@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GOJOU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-The_Honoured_one-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
@@ -34,7 +34,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2349019860022"><img src="https://img.shields.io/badge/Contact the one -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@HacktivistHive"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@HacktivistHive" /><br>
 <p align="center">
